@@ -1,0 +1,16 @@
+{
+  "name": "aula-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:comunicacao_animal": "node --test src/test/comunicacao.test.js",
+    "test:pessoas": "node --test src/test/pesquisar.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^11.7.1"
+  }
+}
